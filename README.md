@@ -1,25 +1,27 @@
 <div align="center">
 
 # Pawan Sharma
-### Ruby on Rails · React
-Building web applications with useful APIs, thoughtful data models, and clear interfaces.
+### Ruby on Rails Backend Engineer
+I build API-driven products, with experience in React applications and technical leadership.
 
-[PeerBuddy](https://github.com/PeerBuddy) · [Explore my work](https://github.com/pawan1498?tab=repositories)
+[PeerBuddy on GitHub](https://github.com/PeerBuddy)
 
 </div>
 
 ---
 
-## Selected work
+## Featured project
 
-### 01 / PeerBuddy — Mentorship Platform
-**A platform connecting mentors and mentees through sessions, webinars, digital products, and long-term mentorship.**
+### PeerBuddy — Mentorship Platform
+**A platform connecting mentors and mentees through 1:1 sessions, webinars, digital products, and long-term mentorship.**
 
-Co-founded PeerBuddy and served as CTO, leading development of its Rails API and React app. The product included mentor and mentee profiles, service listings, availability, booking workflows, and feedback.
+As co-founder and CTO, I led engineering for the Rails API and React app. I worked on the platform’s core workflows:
 
-**Ruby on Rails / PostgreSQL / React / Sidekiq / Searchkick / JWT**
+- Mentor and mentee profiles, service listings, and feedback
+- Availability management and booking lifecycle
+- Background jobs and mentor search
 
-[PeerBuddy organization](https://github.com/PeerBuddy)
+**Ruby 3.2 · Ruby on Rails · PostgreSQL · React · Sidekiq · Searchkick · JWT**
 
 ---
 
