@@ -1,9 +1,7 @@
 <div align="center">
 
 # Pawan Sharma
-
 ### Ruby on Rails · React · TypeScript
-
 Building web applications with useful APIs, thoughtful data models, and clear interfaces.
 
 [Featured backend](https://github.com/pawan1498/employee_salary_management-Incubyte) · [Frontend](https://github.com/pawan1498/employee_salary_management-frontend-Incubyte) · [Explore my work](https://github.com/pawan1498?tab=repositories)
@@ -15,7 +13,6 @@ Building web applications with useful APIs, thoughtful data models, and clear in
 ## Selected work
 
 ### 01 / Employee Salary Management
-
 **An employee directory and compensation dashboard built with Rails and React.**
 
 Browse employees, explore compensation by country and department, and track salary changes over time. Originally built as an Incubyte take-home assignment.
@@ -29,7 +26,6 @@ Browse employees, explore compensation by country and department, and track sala
 [Backend code](https://github.com/pawan1498/employee_salary_management-Incubyte) · [Frontend code](https://github.com/pawan1498/employee_salary_management-frontend-Incubyte) · [App demo](https://employee-salary-management-frontend-sdqh.onrender.com) · [Architecture](https://github.com/pawan1498/employee_salary_management-Incubyte/blob/main/docs/DESIGN.md)
 
 ### 02 / Marker
-
 **A bookmark organizer for the links you want to find again.**
 
 Save useful learning resources, add descriptive tags, and retrieve saved links by tag. An earlier Rails project focused on a small, practical workflow.
@@ -37,6 +33,15 @@ Save useful learning resources, add descriptive tags, and retrieve saved links b
 **Ruby on Rails / Tagging / Search**
 
 [Explore the project](https://github.com/pawan1498/marker)
+
+### 03 / PeerBuddy — Mentorship Platform
+**A platform connecting mentors and mentees through sessions, webinars, digital products, and long-term mentorship.**
+
+Co-founded PeerBuddy and served as CTO, leading development of its Rails API and React app. The product included mentor and mentee profiles, service listings, availability, booking workflows, and feedback.
+
+**Ruby on Rails / PostgreSQL / React / Sidekiq / Searchkick / JWT**
+
+[PeerBuddy organization](https://github.com/PeerBuddy)
 
 ---
 
@@ -49,11 +54,3 @@ Save useful learning resources, add descriptive tags, and retrieve saved links b
 ## Practice & foundations
 
 I also keep my problem-solving practice on GitHub: [Data structures and algorithms](https://github.com/pawan1498/DSA) · [CodeChef](https://github.com/pawan1498/CODECHEF).
-
----
-
-<div align="center">
-
-Start with the **Employee Salary Management** repositories to explore my recent application work.
-
-</div>
