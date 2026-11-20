@@ -15,7 +15,7 @@ I build API-driven products, with experience in React applications and technical
 ### PeerBuddy — Mentorship Platform
 **A platform connecting mentors and mentees through 1:1 sessions, webinars, digital products, and long-term mentorship.**
 
-As co-founder and CTO, I led engineering for the Rails API and React app. I worked on the platform’s core workflows:
+As co-founder, I led engineering for the Rails API and React app. I worked on the platform’s core workflows:
 
 - Mentor and mentee profiles, service listings, and feedback
 - Availability management and booking lifecycle
